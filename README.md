@@ -36,9 +36,8 @@ troubleshooting with ping, Cisco IOS CLI.
 
 ## Files
 - Networking_Capstone_Project.pdf - full report with screenshots
-- acl-config.txt - ACL commands
-- Tecknova.pkt - open with Cisco Packet Tracer
-- Screenshot 
+- Technova Network Topology (Technova.pkt)
+- Assets folder (screenshots)
   
 ## Author
 Raphael Ndidi-Uboma
